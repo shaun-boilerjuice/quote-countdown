@@ -7,7 +7,7 @@
 .countdown-timer-container h3 {
   font-family: sans-serif;
   margin: 0 0 14px;
-  font-size: 5em;
+  font-size: 1em;
 }
 @media (min-width: 768px) {
   .countdown-timer-container h3 {
