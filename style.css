@@ -4,20 +4,20 @@
   padding: 30px 15px;
   text-align: center;
 }
-.countdown-timer-container h2 {
+.countdown-timer-container h3 {
   font-family: sans-serif;
   margin: 0 0 14px;
   font-size: 5em;
 }
 @media (min-width: 768px) {
-  .countdown-timer-container h2 {
+  .countdown-timer-container h3 {
     font-size: 16px;
   }
 }
-.countdown-timer-container h2 time#timer {
+.countdown-timer-container h3 time#timer {
   color: #f95832;
 }
-.countdown-timer-container h2 time#timer.time-over {
+.countdown-timer-container h3 time#timer.time-over {
   color: red;
 }
 .countdown-timer-container .button-container {
